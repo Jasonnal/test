@@ -1,2 +1,3 @@
-public test{
+public class test {
+
 }
